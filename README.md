@@ -1,5 +1,3 @@
-![](https://github.com/oztam/dashboards/blob/master/images/oztam-measuring-logo.png)
-
 # **VPM Dashboards**
 
 In this Wiki you will find information on how to use OzTAM's visualisation dashboards for accessing and analysing your Video Player Measurement (VPM) viewing. 
