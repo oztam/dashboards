@@ -24,6 +24,6 @@ Follow the below links to get started:
 - Glossary: https://oztam.com.au/vpmtermsanddefinitions.aspx
 - Specs: https://github.com/oztam/oztam-specifications/wiki/VPM-Service-Specifications
 
-Contact OzTAM to set up training for your teams and ask questions for you specific use cases
+Contact OzTAM to set up training for your teams and ask questions for your specific use cases
 - E: vpm-team@oztam.com.au
 - M: +61 2 9929 7210
