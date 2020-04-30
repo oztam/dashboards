@@ -4,18 +4,6 @@
 
 In this Wiki you can find out more on how to use OzTAM's dashboards for accessing and analysing Video Player Measurement (VPM) viewing. 
 
-Follow the below links to get started:
-
-[User Guide](https://github.com/oztam/dashboards/wiki/Video-Player-Measurement-(VPM)-Dashboards-V2.0)
-
-[Use Cases](https://github.com/oztam/dashboards/wiki/VPM-Dashboards-Use-Cases)
-
-OzTAM’s dashboards are based on:
-
-1. Predefined data indexes
-1. Visualisations
-1. Data searches
-
 The data for the dashboards are populated from the data received from VPM integrations in VPM applications via the OzTAM Collection Service (OCS).
 
 VPM Dashboards are customisable and can be delivered (not limited) to the following teams within the broadcaster:
@@ -25,15 +13,23 @@ VPM Dashboards are customisable and can be delivered (not limited) to the follow
 - Marketing Team
 - Media Sales Team
 
+Follow the below links to get started:
+
+- [User Guide](https://github.com/oztam/dashboards/wiki/Video-Player-Measurement-(VPM)-Dashboards-V2.0)
+
+- [Use Cases](https://github.com/oztam/dashboards/wiki/VPM-Dashboards-Use-Cases)
+
+
+
 Contact OzTAM to set up training for your teams and ask questions for you specific use cases
 
-E: vpm-team@oztam.com.au
-M: +61 2 9929 7210
+- E: vpm-team@oztam.com.au
+- M: +61 2 9929 7210
 
-Handy Links
+**Handy Links**
 
-FAQS: https://oztam.com.au/vpmfaqs.aspx
+- FAQS: https://oztam.com.au/vpmfaqs.aspx
 
-Glossary: https://oztam.com.au/vpmtermsanddefinitions.aspx
+- Glossary: https://oztam.com.au/vpmtermsanddefinitions.aspx
 
-Specs: https://github.com/oztam/oztam-specifications/wiki/VPM-Service-Specifications
+- Specs: https://github.com/oztam/oztam-specifications/wiki/VPM-Service-Specifications
