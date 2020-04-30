@@ -4,6 +4,7 @@ In this Wiki you will find information on how to use OzTAM's visualisation dashb
 
 Follow the below links to get started:
 
+- [Wiki Home Page](https://github.com/oztam/dashboards/wiki)
 - [User Guide](https://github.com/oztam/dashboards/wiki/Video-Player-Measurement-(VPM)-Dashboards-V2.0)
 - [Use Cases](https://github.com/oztam/dashboards/wiki/VPM-Dashboards-Use-Cases)
 - [Features & Benefits](https://github.com/oztam/dashboards/wiki/VPM-Dashboards-Use-Cases#features--benefits)
