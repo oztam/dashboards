@@ -20,14 +20,18 @@ VPM Dashboards are customisable and can be delivered (not limited) to the follow
 
 Follow the below links to get started:
 
-https://github.com/oztam/dashboards/wiki/Video-Player-Measurement-(VPM)-Dashboards-V2.0
-https://github.com/oztam/dashboards/wiki/VPM-Dashboards-Use-Cases
+[User Guide](https://github.com/oztam/dashboards/wiki/Video-Player-Measurement-(VPM)-Dashboards-V2.0)
+[Use Cases](https://github.com/oztam/dashboards/wiki/VPM-Dashboards-Use-Cases)
 
 Contact OzTAM to set up training for your teams and ask questions for you specific use cases
 
 E: vpm-team@oztam.com.au
 M: +61 2 9929 7210
 
+Handy Links
+
 FAQS: https://oztam.com.au/vpmfaqs.aspx
+
 Glossary: https://oztam.com.au/vpmtermsanddefinitions.aspx
+
 Specs: https://github.com/oztam/oztam-specifications/wiki/VPM-Service-Specifications
