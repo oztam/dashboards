@@ -4,7 +4,14 @@
 
 In this Wiki you can find out more on how to use OzTAM's dashboards for accessing and analysing Video Player Measurement (VPM) viewing. 
 
-OzTAM’s dashboards are based on 
+Follow the below links to get started:
+
+[User Guide](https://github.com/oztam/dashboards/wiki/Video-Player-Measurement-(VPM)-Dashboards-V2.0)
+
+[Use Cases](https://github.com/oztam/dashboards/wiki/VPM-Dashboards-Use-Cases)
+
+OzTAM’s dashboards are based on:
+
 1. Predefined data indexes
 1. Visualisations
 1. Data searches
@@ -17,11 +24,6 @@ VPM Dashboards are customisable and can be delivered (not limited) to the follow
 - Content Curation Team
 - Marketing Team
 - Media Sales Team
-
-Follow the below links to get started:
-
-[User Guide](https://github.com/oztam/dashboards/wiki/Video-Player-Measurement-(VPM)-Dashboards-V2.0)
-[Use Cases](https://github.com/oztam/dashboards/wiki/VPM-Dashboards-Use-Cases)
 
 Contact OzTAM to set up training for your teams and ask questions for you specific use cases
 
