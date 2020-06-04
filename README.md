@@ -1,4 +1,4 @@
-# **OzTAM Dashboard/Portal Guides**
+# **OzTAM Dashboards**
 
 In this Wiki you will find information on how to use OzTAM's Video Player Measurement (VPM) visualisation dashboards for accessing and analysing BVOD audience viewing and the VOZ Reach & Frequency dashboard for calculating TV and BVOD campaign reach. 
 
