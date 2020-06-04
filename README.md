@@ -1,14 +1,17 @@
-# **VPM Dashboards**
+# **OzTAM Dashboard/Portal Guides**
 
-In this Wiki you will find information on how to use OzTAM's VPM visualisation dashboards and the VOZ Reach & Frequency Portal for accessing and analysing your TV or BVOD audience viewing.
+In this Wiki you will find information on how to use OzTAM's visualisation and Reach & Frequency dashboards for accessing and analysing your Video Player Measurement (VPM) viewing. 
 
 Follow the below links to get started:
 
+## **VOZ R&F Portal**
+- [VOZ R&F Portal MVP Guide](https://github.com/oztam/dashboards/wiki/VOZ-R%26F-Portal-Guide)
+
+## **VPM Kibana Dashboards**
 - [Wiki Home Page](https://github.com/oztam/dashboards/wiki)
 - [User Guide](https://github.com/oztam/dashboards/wiki/Video-Player-Measurement-(VPM)-Dashboards-V2.0)
 - [Use Cases](https://github.com/oztam/dashboards/wiki/VPM-Dashboards-Use-Cases)
 - [Features & Benefits](https://github.com/oztam/dashboards/wiki/VPM-Dashboards-Use-Cases#features--benefits)
-- [VOZ R&F Portal MVP Guide](https://github.com/oztam/dashboards/wiki/VOZ-R%26F-Portal-Guide)
 
 
 ### **Handy Links**
