@@ -1,6 +1,6 @@
 # **VPM Dashboards**
 
-In this Wiki you will find information on how to use OzTAM's visualisation dashboards for accessing and analysing your Video Player Measurement (VPM) viewing. 
+In this Wiki you will find information on how to use OzTAM's visualisation and Reach & Frequency dashboards for accessing and analysing your Video Player Measurement (VPM) viewing. 
 
 Follow the below links to get started:
 
@@ -8,6 +8,7 @@ Follow the below links to get started:
 - [User Guide](https://github.com/oztam/dashboards/wiki/Video-Player-Measurement-(VPM)-Dashboards-V2.0)
 - [Use Cases](https://github.com/oztam/dashboards/wiki/VPM-Dashboards-Use-Cases)
 - [Features & Benefits](https://github.com/oztam/dashboards/wiki/VPM-Dashboards-Use-Cases#features--benefits)
+- [VOZ R&F Portal MVP Guide](https://github.com/oztam/dashboards/wiki/VOZ-R%26F-Portal-Guide)
 
 
 ### **Handy Links**
