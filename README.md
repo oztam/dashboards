@@ -14,6 +14,7 @@ Follow the below links to get started:
 - [User Guide](https://github.com/oztam/dashboards/wiki/Video-Player-Measurement-(VPM)-Dashboards-V2.0)
 - [Use Cases](https://github.com/oztam/dashboards/wiki/VPM-Dashboards-Use-Cases)
 - [Features & Benefits](https://github.com/oztam/dashboards/wiki/VPM-Dashboards-Use-Cases#features--benefits)
+- [VPM Audience Device Dashboards](https://github.com/oztam/dashboards/wiki/Audience-Device-Index-Dashboards)
 
 
 ### **Handy Links**
